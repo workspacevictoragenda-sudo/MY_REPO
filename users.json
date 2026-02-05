@@ -2,14 +2,14 @@
   "updatedAt": "2026-02-05T00:00:00Z",
   "users": [
     {
-      "user": "Admin",
-      "pass": "#Um234567oito",
+      "mszr": "Admin",
+      "vtpdd": "#Um234567oito",
       "role": "admin",
       "active": true
     },
     {
-      "user": "cliente1",
-      "pass": "1234",
+      "mszr": "cliente1",
+      "vtpdd": "1234",
       "active": true,
       "expiresAt": "2026-02-20T00:00:00Z"
     }
