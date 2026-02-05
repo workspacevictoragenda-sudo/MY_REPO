@@ -1,0 +1,17 @@
+{
+  "updatedAt": "2026-02-05T00:00:00Z",
+  "users": [
+    {
+      "user": "Uaisten",
+      "pass": "#Um234567oito",
+      "role": "admin",
+      "active": true
+    },
+    {
+      "user": "cliente1",
+      "pass": "1234",
+      "active": true,
+      "expiresAt": "2026-02-20T00:00:00Z"
+    }
+  ]
+}
