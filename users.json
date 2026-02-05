@@ -2,7 +2,7 @@
   "updatedAt": "2026-02-05T00:00:00Z",
   "users": [
     {
-      "user": "Uaisten",
+      "user": "Admin",
       "pass": "#Um234567oito",
       "role": "admin",
       "active": true
